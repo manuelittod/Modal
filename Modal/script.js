@@ -8,4 +8,7 @@ open.addEventListener("click", () => {
 
 close.addEventListener("click", () => {
     modalContainer.classList.remove("active");
+close.addEventListener("click", () => {
+    modalContainer.classList.remove("active");
+
 });
